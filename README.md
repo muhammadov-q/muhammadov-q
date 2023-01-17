@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Game 2048**
+- 🔭 I’m currently working on **Telegram Bot**
 
 - 🌱 I’m currently learning **Python, JavaScript, C++**
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Languages and Tools:
+ <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
 <p align="left"> 
        <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -28,8 +28,6 @@
        <a href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> 
         <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
  </p>
- 
- <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
