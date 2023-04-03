@@ -47,7 +47,6 @@
 
 ## 📊 My Github Stats
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/Takhirzhon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadov-q&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadov-q&theme=noctis_minimus&layout=compact" />
