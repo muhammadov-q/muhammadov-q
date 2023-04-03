@@ -62,14 +62,6 @@
   <a href="https://github.com/muhammadov-q/github-readme-stats"><img alt="Kobiljon Muhammadov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadov-q&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-<br/>
-<br/>
-
-<a href="https://github.com/muhammadov-q"><img alt="Kobiljon Muhammadov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muhammadov-q&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> </a>
-
-<br/>
-<br/>
-
 ---
 
 ## Connect with me:
