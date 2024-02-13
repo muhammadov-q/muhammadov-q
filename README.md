@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kobiljon ⭐</h1>
-<h3 align="center">𝐈 𝐚𝐦 𝐚 Blockchain developer, 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 , 𝐚𝐧𝐝 𝐚𝐧 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭𝐢𝐜 𝐟𝐮𝐭𝐮𝐫𝐞 Software 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫. </h3>
+<h3 align="center">𝐈 𝐚𝐦 𝐚 Full Stack developer, 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 , 𝐚𝐧𝐝 𝐚𝐧 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭𝐢𝐜 𝐟𝐮𝐭𝐮𝐫𝐞 Software 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫. </h3>
 
 ---
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, JavaScript, C++**
 
-- 📫 How to reach me **muhammadov_q@auca.kg**
+- 📫 Visit my website and learn more **www.kobiljon.tech**
 
 - ⚡ Fun fact about me is that **I am big fun of public speaking and MMA**
 
@@ -45,13 +45,10 @@
 
 ## 📊 My Github Stats
 
-<a href="https://github.com/Takhirzhon">
+<a href="https://github.com/muhammadov-q">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadov-q&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadov-q&theme=noctis_minimus&layout=compact" />
 </a>
-
-
-
 
 ## Connect with me:
 
@@ -59,7 +56,7 @@
 
 <a href = "https://www.linkedin.com/in/kobiljon-muhammadov-3b756321b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/home"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.youtube.com/channel/UC2fDLi206yClpHnA7kOsu-w"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href="https://www.instagram.com/qobiljon_muhammadov/"> <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/> </a>
 
 </p>
 
