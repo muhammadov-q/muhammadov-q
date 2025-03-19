@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, JavaScript, C++**
 
-- 📫 Visit my website and learn more **www.kobiljon.tech**
+- 📫 Visit my website and learn more **www.kobiljon.com**
 
 - ⚡ Fun fact about me is that **I am big fun of public speaking and MMA**
 
